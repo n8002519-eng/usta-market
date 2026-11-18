@@ -260,3 +260,4 @@ Agar kelajakda Supabase ma'lumotlar bazasini ulamoqchi bo'lsangiz:
 Ushbu loyiha ochiq kodli bo'lib, ta'lim va tijoriy maqsadlarda foydalanish uchun mo'ljallangan.
 
 © 2024 **USTA MARKET** — O'zbekiston. Barcha huquqlar himoyalangan.
+
